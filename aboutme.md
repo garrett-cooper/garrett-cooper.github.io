@@ -12,13 +12,10 @@ From a young age, I have always been a social person. For the past two years, I 
 
 In the future I hope to bridge the gap between computational biology and molecular genetics to be a pioneer in the field of personalized medicine.
 
-### :yellow_heart: Hobbies outside of work
+### Hobbies outside of work
 - Bagel enthusiast
 - Practicing jiu jitsu 
 - Live music
 - Challenging myself physically and mentally
 
-What else do you need?
 
-
-I recently took up baseball, which has ended up being quite lucrative :sweat_drops:.  [my side hustle]([https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29](https://www.mlb.com/player/garrett-cooper-643265) and it will answer **all** your questions.
