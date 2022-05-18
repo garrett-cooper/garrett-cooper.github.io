@@ -2,9 +2,9 @@
 layout: post
 title: The First Post
 subtitle: Qualifying Exam is done!!
-cover-img: /assets/img/HSRB.png
+cover-img: /assets/img/HSRB2.png
 thumbnail-img: /assets/img/flower.jpg
-share-img: /assets/img/HSRB.png
+share-img: /assets/img/HSRB2.png
 tags: [first, test]
 ---
 
